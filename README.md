@@ -1,6 +1,7 @@
-# Algorithmic Toolkit (Java)
+# Algorithms (Princeton / Coursera)
 
-A curated collection of classical algorithms and data structures implemented in Java, with emphasis on clarity, correctness, and efficiency.
+Implementations of programming assignments from the **Algorithms, Part I & II** courses offered by Princeton University on Coursera.  
+All code is written in **Java**, following the specifications and testing requirements from the course.
 
 ## Contents
 
